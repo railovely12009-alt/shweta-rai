@@ -1,0 +1,21 @@
+body{
+    background-color:bisque;
+}
+h1{
+    column-rule-color:rgb(221, 210, 160);
+    text-align: center;
+}
+main{
+    background-color: cadetblue;
+}
+footer{
+    background-color: bisque;
+}
+p{
+    font-size: larger;
+    font-family: sans-serif;
+}
+table{
+    background-color: rgb(50, 204, 204);
+    box-sizing: calc(100);
+}
