@@ -5,9 +5,6 @@ h1{
     column-rule-color:rgb(221, 210, 160);
     text-align: center;
 }
-main{
-    background-color: cadetblue;
-}
 footer{
     background-color: bisque;
 }
@@ -16,6 +13,67 @@ p{
     font-family: sans-serif;
 }
 table{
-    background-color: rgb(50, 204, 204);
-    box-sizing: calc(100);
+    width: 200px;
+    text-align: left;
+    align-items: center;
 }
+table,th,tr,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 0.5rem 1rem;
+
+}
+tr:nth-child(odd) {
+ background-color: rgb(127, 246, 255);
+}
+form{
+    background-color: darksalmon;
+}
+table{
+    align="center";
+    background-color: aquamarine;
+}
+ul li{
+      background-color: rgb(220, 220, 220);
+      display: inline-block;
+      padding: 10px;
+}
+ul li:hover{
+    background-color: coral;
+    color: rgb(255, 220, 220);
+    padding-right: 25px;
+    transition: 1s;
+    align: center;
+    color: black;
+}
+  class{
+
+    background-color: lightsteelblue;
+}
+ p{
+    background-color: aqua;
+}
+p{
+    style="text-align: justify;"
+}
+
+table fieldset{
+    background-color: ;
+}
+hr{
+    background-color: aquamarine;
+}
+ul{
+    background-color:black;
+    
+}
+img{
+    background-color: blue;
+}
+
+
+
+
+
+
+
